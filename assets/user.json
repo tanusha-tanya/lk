@@ -1,0 +1,14 @@
+{
+	"result": "success",
+	"data": {
+		"email":"admin@test.ru",
+		"name": "admin",
+		"password": "1234567R@",
+		"itn": "1234567R@",
+		"company_name": "Рога и копыта",
+		"accountable_full_name": "Иванов Иван Иванович",
+		"phone": "+7 (912) 741-81-80",
+		"website": "Job.com",
+		"city": "Москва"
+	}
+}
